@@ -9,3 +9,7 @@ Here's the details:
 6. Decode SAML Response
 7. Decrypt SAML Assertion using the corresponding private key
 8. Validate the XML Signature with the corresponding public key
+
+Requirement:
+JDK 8 or above
+Maven 3.5 
