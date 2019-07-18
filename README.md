@@ -1,6 +1,6 @@
-This code sample is to demonstrate how to generate and validate SAML Response using Open SAML API 3.3.0
+##This code sample is to demonstrate how to generate and validate SAML Response using Open SAML API 3.3.0
 
-Here's the details:
+##Here's the details:
 1. Generate sample SAML Assertion
 2. Sign SAML Assertion using a private key
 3. Encrypt SAML Assertion using a public key
@@ -10,6 +10,6 @@ Here's the details:
 7. Decrypt SAML Assertion using the corresponding private key
 8. Validate the XML Signature with the corresponding public key
 
-Requirement:
+##Requirement:
 JDK 8 or above
 Maven 3.5 
